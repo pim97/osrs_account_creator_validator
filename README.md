@@ -38,4 +38,7 @@ The accounts will be set up in the accounts.txt file in the following way:
 
 ip : port : email : password
 
+# Seeking help?
+You may add me on discord: Pim#7972, it will cost you some money for me to set it up for you / additional support
+
 Created by Pim
